@@ -1,4 +1,4 @@
-# Merhaba, ben [Adınız]! 👋
+# Merhaba, ben AHMET MERT TURAL! 👋
 
 ## 🌟 Hakkımda
 - 🎓 **Bilgisayar Mühendisliği** son sınıf öğrencisiyim.
@@ -10,22 +10,13 @@
 
 ## 🚀 Teknik Yeteneklerim
 ### 💻 Programlama Dilleri
-- JavaScript, C#, Python, Dart
+- JavaScript, C#, Python
 
 ### 🛠️ Teknolojiler ve Araçlar
 - **Frontend:** React, HTML5, CSS3
 - **Backend:** Node.js, SQL, ASP.NET
 - **Oyun Geliştirme:** Unity, C#
 - **Diğer:** Git, GitHub, Figma, Firebase
-
----
-
-## 🌟 Öne Çıkan Projeler
-[![Proje 1](https://img.shields.io/badge/-Proje_1-007ACC?style=flat-square)](https://github.com/kullaniciadi/proje1)  
-**Proje Açıklaması:** Bu projede [projenizin amacı veya özelliğini belirtin].
-
-[![Proje 2](https://img.shields.io/badge/-Proje_2-28A745?style=flat-square)](https://github.com/kullaniciadi/proje2)  
-**Proje Açıklaması:** Bu projede [projenizin amacı veya özelliğini belirtin].
 
 ---
 
@@ -36,7 +27,7 @@
 ---
 
 ## 📫 Bana Ulaşın
-- **E-posta:** [eposta@adres.com](mailto:eposta@adres.com)  
+- **E-posta:** [eposta@adres.com](mailto:mertttural@gmail.com)  
 - **LinkedIn:** [LinkedIn Profiliniz](https://linkedin.com/in/profiliniz)  
 - **Portfolyo:** [Web Siteniz](https://websiteniz.com)
 
